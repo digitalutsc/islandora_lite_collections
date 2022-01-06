@@ -1,0 +1,7 @@
+collections_action:
+  version: 1.x
+  js:
+    js/islandora_lite_collections.js: {}
+  dependencies:
+    - core/jquery
+

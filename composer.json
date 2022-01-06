@@ -1,0 +1,13 @@
+{
+    "name": "islandora_lite_collections",
+    "type": "drupal-module",
+    "description": "My Awesome Module",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/islandora_lite_collections",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/islandora_lite_collections",
+        "source": "http://cgit.drupalcode.org/islandora_lite_collections",
+    },
+}
